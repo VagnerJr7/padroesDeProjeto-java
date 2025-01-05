@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\Vagner Pereira\OneDrive\Área de Trabalho\ClassesJavaEbac\padroesProjetosMod15\ExemplosMod15\.metadata\.plugins\org.eclipse.jdt.core
+3229789693.index
+1865797976.index
+440715281.index

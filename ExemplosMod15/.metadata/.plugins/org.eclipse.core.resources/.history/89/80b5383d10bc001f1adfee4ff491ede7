@@ -1,0 +1,5 @@
+package vjr;
+
+public class Singleton {
+
+}
